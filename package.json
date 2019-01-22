@@ -1,0 +1,27 @@
+{
+  "name": "datastructureandalgo",
+  "version": "1.0.0",
+  "description": "data structures",
+  "main": "solution.js",
+  "scripts": {
+    "test": "eslint . && jest",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashabrai/dataStructureAndAlgo.git"
+  },
+  "author": "ashabrai frauen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashabrai/dataStructureAndAlgo/issues"
+  },
+  "homepage": "https://github.com/ashabrai/dataStructureAndAlgo#readme",
+  "devDependencies": {
+    "eslint": "^5.12.1",
+    "jest": "^23.6.0"
+  },
+  "dependencies": {
+    "eslint-plugin-dependencies": "^2.4.0"
+  }
+}
