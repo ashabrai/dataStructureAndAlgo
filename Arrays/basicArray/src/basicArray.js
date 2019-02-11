@@ -10,7 +10,6 @@ module.exports = function addValuesArray(n) {
   return emptyArray;
 };
 
-// ------------------------------------------------// 
 // adding values to the middle index using splice
 // key things with splice:
 // starting index/where you want to begin adding nums 
