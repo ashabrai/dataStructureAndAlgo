@@ -1,6 +1,6 @@
 'use strict';
 
-const addValuesArray = require('../src/basicArray');
+const addValuesArray = require('../src/addValues');
 
 describe('#basicArray', () => {
   test('to see if values are added in array', () => {
